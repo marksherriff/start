@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://marksherriff.github.io
 baseurl: /start
 
 # variables
